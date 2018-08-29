@@ -1,2 +1,3 @@
-# python
-Python stuff
+# Python repository
+- Course notes
+- Exercises
